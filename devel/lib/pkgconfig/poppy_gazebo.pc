@@ -1,0 +1,8 @@
+prefix=/home/viki/poppy_ros/devel
+
+Name: poppy_gazebo
+Description: Description of poppy_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/viki/poppy_ros/devel/lib 
+Requires: sensor_msgs gazebo_ros hector_gazebo_plugins

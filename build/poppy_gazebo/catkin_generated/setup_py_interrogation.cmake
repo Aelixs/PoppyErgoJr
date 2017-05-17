@@ -1,0 +1,6 @@
+set(poppy_gazebo_SETUP_PY_VERSION "0.1.0")
+set(poppy_gazebo_SETUP_PY_SCRIPTS "")
+set(poppy_gazebo_SETUP_PY_PACKAGES "poppy_gazebo")
+set(poppy_gazebo_SETUP_PY_PACKAGE_DIRS "src/poppy_gazebo")
+set(poppy_gazebo_SETUP_PY_MODULES "")
+set(poppy_gazebo_SETUP_PY_MODULE_DIRS "")

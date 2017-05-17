@@ -1,0 +1,2 @@
+poppy_control:poppy_description:poppy_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/viki/poppy_ros/devel -DCMAKE_INSTALL_PREFIX=/home/viki/poppy_ros/install

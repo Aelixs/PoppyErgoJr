@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>poppy_control</name>
+  <version>1.0.0</version>
+  <description>The poppy_control package</description>
+
+  <maintainer email="zamar@etud.insa-toulouse.fr">Alexis Zamar</maintainer>
+  <author email="zamar@etud.insa-toulouse.fr">Alexis Zamar</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>poppy_description</run_depend>
+<!--  <run_depend>gazebo_ros</run_depend> -->
+
+
+</package>

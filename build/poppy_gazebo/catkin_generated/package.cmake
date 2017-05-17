@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "poppy_gazebo")
+set(poppy_gazebo_MAINTAINER "Philippe Capdepuy <pc@humarobotics.com>")
+set(poppy_gazebo_DEPRECATED "")
+set(poppy_gazebo_VERSION "0.1.0")
+set(poppy_gazebo_BUILD_DEPENDS "gazebo_ros" "rospy" "gazebo_ros_control" "sensor_msgs")
+set(poppy_gazebo_RUN_DEPENDS "gazebo_ros" "rospy" "gazebo_ros_control" "sensor_msgs" "poppy_description" "hector_gazebo_plugins")
+set(poppy_gazebo_BUILDTOOL_DEPENDS "catkin")

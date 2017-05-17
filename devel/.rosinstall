@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/viki/poppy_ros/devel/setup.sh
